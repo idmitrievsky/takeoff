@@ -13,6 +13,9 @@ It encourages you to have:
 - tests (with pytest_)
 - a LICENSE file (use `Choose a license`_)
 
+To learn what to do with ``dev-requirements.in`` file look into the `pip-tools`_.
+
 .. _pytest: https://github.com/pytest-dev/pytest
 .. _Sphinx: https://github.com/sphinx-doc/sphinx
 .. _Choose a license: http://choosealicense.com/
+.. _pip-tools: https://github.com/nvie/pip-tools
