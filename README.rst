@@ -1,6 +1,8 @@
 ..
     FIXME
 
+**NOTE: This project is obsolete, you shouldn't use it**.
+
 Takeoff
 =======
 
